@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="zxing-android-legacy-2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9c4e5c65e17b73e0af09bf952ce5060dac7868eb/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9c4e5c65e17b73e0af09bf952ce5060dac7868eb/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-legacy/2.3.0/10800aaa8961a94f4bc4f3bdbec3403798526220/zxing-android-legacy-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

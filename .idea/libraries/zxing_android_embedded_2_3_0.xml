@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="zxing-android-embedded-2.3.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/a3fe46462c07986f18ae8d320cbeaaacf1bd0fee/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a3fe46462c07986f18ae8d320cbeaaacf1bd0fee/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/2.3.0/e02d46b1e9d9611b084f2e9aed26ac169ab7ffda/zxing-android-embedded-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
